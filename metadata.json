@@ -1,0 +1,6 @@
+{
+  "name": "Jordan Networks",
+  "description": "Redesigned premium B2B technology and managed services web platform for South Africa's leading ICT integrator, Jordan Networks (Pty) Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
